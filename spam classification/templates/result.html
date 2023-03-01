@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Spam Detector</title>
+</head>
+<body>
+	{% if prediction == 1 %}
+		<h1>SPAM</h1>
+	{% else %}
+		<h1>NOT SPAM</h1>
+	{% endif %}
+	<a href="{{ url_for('home') }}">Back to home</a>
+</body>
+</html
