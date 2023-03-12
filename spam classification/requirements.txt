@@ -1,8 +1,2 @@
 nltk
 sklearn
-pandas
-numpy
-python
-flask
-pickle
-re
