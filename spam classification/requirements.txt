@@ -1,2 +1,8 @@
+python
+pandas
+numpy
 nltk
-sklearn
+scikit-learn
+flask
+regex
+gunicorn
